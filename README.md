@@ -1,0 +1,3 @@
+# blog
+
+🤔Independent thinking.
